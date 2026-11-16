@@ -1,0 +1,11 @@
+member,chamber,party,state,ticker,type,transaction_date,disclosure_date,amount,owner
+Rep. Jordan Avery,HOUSE,D,CA,NVDA,PURCHASE,2025-06-03,2025-06-28,"$15,001 - $50,000",Spouse
+Rep. Jordan Avery,HOUSE,D,CA,AAPL,SALE,2025-05-14,2025-06-10,"$1,001 - $15,000",Self
+Sen. Morgan Ellis,SENATE,R,TX,XOM,PURCHASE,2025-04-22,2025-05-19,"$50,001 - $100,000",Joint
+Sen. Morgan Ellis,SENATE,R,TX,LMT,PURCHASE,2025-03-11,2025-04-02,"$15,001 - $50,000",Self
+Rep. Casey Nguyen,HOUSE,R,FL,MSFT,PURCHASE,2025-06-18,2025-07-15,"$1,001 - $15,000",Self
+Rep. Casey Nguyen,HOUSE,R,FL,TSLA,SALE,2025-02-27,2025-03-20,"$100,001 - $250,000",Spouse
+Sen. Riley Patel,SENATE,D,NY,GOOGL,PURCHASE,2025-01-09,2025-02-05,"$15,001 - $50,000",Joint
+Sen. Riley Patel,SENATE,D,NY,JPM,SALE,2025-05-30,2025-06-25,"$50,001 - $100,000",Self
+Rep. Taylor Brooks,HOUSE,I,VT,AMZN,PURCHASE,2025-04-01,2025-04-29,"$1,001 - $15,000",Child
+Rep. Taylor Brooks,HOUSE,I,VT,META,PURCHASE,2025-06-24,2025-07-20,"$15,001 - $50,000",Self
